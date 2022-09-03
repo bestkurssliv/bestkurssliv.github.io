@@ -81,7 +81,6 @@ a:focus, a:hover, a:active {
   width: 9px;
   height: 2px;
   background: #17bed2;
-  content: " ";
 }
 
 span {
