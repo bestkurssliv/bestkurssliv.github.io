@@ -1283,3 +1283,6 @@ fieldset[disabled] .btn-theme {
 .height-500 {
     height: 500px !important;
 }
+.centrr {
+    text-align: center;
+}
