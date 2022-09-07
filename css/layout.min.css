@@ -70,7 +70,7 @@ a:active,
 a:focus,
 a:hover,
 h1 > a:focus,
-h2 > a:focus,
+h > a:focus,
 h3 > a:focus,
 h4 > a:focus,
 h5 > a:focus,
@@ -157,9 +157,7 @@ h6 > a:hover {
 h1 {
     font-size: 40px;
 }
-h2 {
-    font-size: 30px;
-}
+
 h3,
 h4 {
     font-size: 22px;
@@ -1285,4 +1283,25 @@ fieldset[disabled] .btn-theme {
 }
 .centrr {
     text-align: center;
+}
+h2 {
+    font-size: 30px;
+}
+
+@media (min-width: 768px) { 
+    h2{
+        font-size: 30px;
+    }
+}
+
+@media (min-width: 992px) { 
+    h2{
+        font-size: 30px;
+    }
+}
+
+@media (min-width: 1200px) {
+    h2{
+        font-size: 30px;
+    }
 }
