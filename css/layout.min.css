@@ -396,6 +396,27 @@ fieldset[disabled] .btn-theme {
     font-size: 85px;
     color: #fff;
 }
+.promo-block-title {
+    font-size: 30px;
+}
+
+@media (min-width: 768px) { 
+    .promo-block-title{
+        font-size: 30px;
+    }
+}
+
+@media (min-width: 992px) { 
+    .promo-block-title{
+        font-size: 30px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .promo-block-title{
+        font-size: 85px;
+    }
+}
 .promo-block {
         padding: 64px 0 220px;
     }
