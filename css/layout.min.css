@@ -767,10 +767,27 @@ fieldset[disabled] .btn-theme {
         top: 19px;
     }
 }
-@media (max-width: 767px) {
+.margin {
+        margin-top: 10px;
+    }
+@media (min-width: 768px) { 
     .margin {
         margin-top: 10px;
     }
+}
+
+@media (min-width: 992px) { 
+    .margin {
+        margin-top: 10px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .margin {
+        margin-top: 10px;
+    }
+}
+@media (max-width: 767px) {
     .header .menu-container {
         padding-left: 15px;
         padding-right: 15px;
