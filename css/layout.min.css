@@ -770,7 +770,7 @@ fieldset[disabled] .btn-theme {
 .margin {
         margin-top: 10px;
     }
-@media (min-width: 768px) { 
+@media (min-width: 767px) { 
     .margin {
         margin-top: 10px;
     }
@@ -778,13 +778,13 @@ fieldset[disabled] .btn-theme {
 
 @media (min-width: 992px) { 
     .margin {
-        margin-top: 10px;
+        margin-top: 0px;
     }
 }
 
 @media (min-width: 1200px) {
     .margin {
-        margin-top: 10px;
+        margin-top: 0px;
     }
 }
 @media (max-width: 767px) {
