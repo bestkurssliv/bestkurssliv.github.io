@@ -400,14 +400,14 @@ fieldset[disabled] .btn-theme {
 
 @media (min-width: 768px) { 
     .promo-block-title{
-        font-size: 30px;
+        font-size: 50px;
         color: #fff;
     }
 }
 
 @media (min-width: 992px) { 
     .promo-block-title{
-        font-size: 30px;
+        font-size: 60px;
         color: #fff;
     }
 }
@@ -813,7 +813,7 @@ fieldset[disabled] .btn-theme {
 .margin {
         margin-top: 10px;
     }
-@media (min-width: 767px) { 
+@media (min-width: 768px) { 
     .margin {
         margin-top: 0px;
     }
