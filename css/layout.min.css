@@ -395,26 +395,27 @@ fieldset[disabled] .btn-theme {
 .promo-block-title {
     font-size: 85px;
     color: #fff;
-}
-.promo-block-title {
     font-size: 30px;
 }
 
 @media (min-width: 768px) { 
     .promo-block-title{
         font-size: 30px;
+        color: #fff;
     }
 }
 
 @media (min-width: 992px) { 
     .promo-block-title{
         font-size: 30px;
+        color: #fff;
     }
 }
 
 @media (min-width: 1200px) {
     .promo-block-title{
         font-size: 85px;
+        color: #fff;
     }
 }
 .promo-block {
@@ -424,14 +425,14 @@ fieldset[disabled] .btn-theme {
 @media (min-width: 768px) { 
    .promo-block {
         padding: 64px 0 220px;
-       font-size: 30px;
+       
     }
 }
 
 @media (min-width: 992px) { 
     .promo-block {
         padding: 64px 0 220px;
-        font-size: 30px;
+       
     }
 }
 
